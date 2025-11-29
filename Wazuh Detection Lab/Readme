@@ -8,10 +8,10 @@ Built a fully working Wazuh 4.8 SIEM tonight on Ubuntu 22.04 (all-in-one deploym
 
 ## Live screenshots (taken tonight)
 
-![Dashboard overview](screenshots/wazuh-overview.png)  
-![Deploy Windows agent](screenshots/wazuh-deploy-windows.png)  
-![PowerShell command](screenshots/wazuh-command.png)  
-![MITRE ATT&CK – Top tactics](screenshots/wazuh-mitre-1.png)  
-![MITRE ATT&CK – Events view](screenshots/wazuh-mitre-2.png)
+![Wazuh Dashboard](screenshots/screenshot%20wazuh-overview.png)
+![Deploy Windows Agent](screenshots/screenshot%20wazuh-deploy-windows.png)
+![PowerShell Command](screenshots/screenshot%20wazuh-command.png)
+![MITRE ATT&CK 1](screenshots/screenshot%20wazuh-mitre-1.png)
+![MITRE ATT&CK 2](screenshots/screenshot%20wazuh-mitre-2.png)
 
 Tomorrow: real detections with Atomic Red Team → alerts with MITRE tags.
