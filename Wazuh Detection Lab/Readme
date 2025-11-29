@@ -1,1 +1,17 @@
+# Project 1: Wazuh Detection Lab – LIVE (29 Nov 2025)
 
+Built a fully working Wazuh 4.8 SIEM tonight on Ubuntu 22.04 (all-in-one deployment).
+
+- Dashboard live and already mapping MITRE ATT&CK tactics from startup noise  
+- Windows agent deployment command ready  
+- Next step tomorrow: connect Windows 11 target + Atomic Red Team attacks
+
+## Live screenshots (taken tonight)
+
+![Dashboard overview](screenshots/wazuh-overview.png)  
+![Deploy Windows agent](screenshots/wazuh-deploy-windows.png)  
+![PowerShell command](screenshots/wazuh-command.png)  
+![MITRE ATT&CK – Top tactics](screenshots/wazuh-mitre-1.png)  
+![MITRE ATT&CK – Events view](screenshots/wazuh-mitre-2.png)
+
+Tomorrow: real detections with Atomic Red Team → alerts with MITRE tags.
